@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: cursive;
+    background-color: #f0f0f0;
+    width: 100%;
+    margin-top: 5vh;
+}
+
+input,
+div {
+    width: 100%;
+}
+.transform-case {
+    background-color: #eaeac5;
+    padding: 10px;
+}
